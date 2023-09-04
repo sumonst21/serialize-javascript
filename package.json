@@ -27,7 +27,7 @@
   "devDependencies": {
     "benchmark": "^2.1.4",
     "chai": "^4.1.0",
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "nyc": "^14.1.1"
   }
 }
